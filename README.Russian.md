@@ -13,7 +13,9 @@ Describe KolmogorovSmirnovAdequacyLogicalArtificialIntelligence here.
 
 с матмоделями реальности
 
-переписать OpenCog PLN Probabilistic Logic Networks, вероятностную логику сместить в область системы "тервер"
+переписать OpenCog's PLN Probabilistic Logic Networks [1], вероятностную логику сместить в область системы "тервер"
+
+[1] https://github.com/nonlin-lin-chaos-order-etc-etal/pln (a PLN fork)
 
 в AdequacyModelsLogicSystems or simply LogicSystems
 
