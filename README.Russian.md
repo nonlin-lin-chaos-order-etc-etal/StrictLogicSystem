@@ -2,6 +2,8 @@
 
 ну это ИИ так, в свободное время, это research
 
+A (future) website: https://sls.any.surf/
+
 Describe KolmogorovSmirnovAdequacyLogicalArtificialIntelligence here.
 
 
