@@ -26,3 +26,5 @@ StrictLogicSystems LogicSystems
 KolmogorovSmirnovAdequacyLogicalArtificialIntelligence
 
 AdequateArtificialIntelligenceProject
+
+To use the metamath.org corpora (axiomatic theories)
