@@ -1,3 +1,5 @@
+у меня новые идеи есть как адекватный ИИ сделать
+
 Describe KolmogorovSmirnovAdequacyLogicalArtificialIntelligence here.
 
 
