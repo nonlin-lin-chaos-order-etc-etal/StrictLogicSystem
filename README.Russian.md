@@ -1,5 +1,7 @@
 у меня новые идеи есть как адекватный ИИ сделать
 
+ну это ИИ так, в свободное время, это research
+
 Describe KolmogorovSmirnovAdequacyLogicalArtificialIntelligence here.
 
 
